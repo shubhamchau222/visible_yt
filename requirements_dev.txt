@@ -1,0 +1,18 @@
+ipywidgets
+notebook
+
+# to check aurgument type 
+ensure 
+py-youtube
+
+# dev requirements
+pytest
+tox
+# formating purpose
+black
+
+# linting purpose
+flake
+
+#type check 
+mypy

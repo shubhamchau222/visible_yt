@@ -1,0 +1,6 @@
+ipywidgets
+notebook
+
+# to check aurgument type 
+ensure 
+py-youtube
