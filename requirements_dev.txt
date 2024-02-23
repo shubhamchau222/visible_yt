@@ -12,10 +12,10 @@ tox
 black
 
 # linting purpose
-flake
+flake8==5.0.4
 
 #type check 
-mypy
+mypy==0.971
 
 # Install local packages
 -e .
