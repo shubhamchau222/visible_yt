@@ -16,3 +16,6 @@ flake
 
 #type check 
 mypy
+
+# Install local packages
+-e .
