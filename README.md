@@ -2,4 +2,5 @@
 
 ```
 test in local : tox
+pytest -v
 ```
